@@ -1,4 +1,4 @@
-## This is the blockchain explorer for the Nanobitcoin project
+# Nanobitcoin Blockchain explorer
 This blockchain explorer will print the entire contents of an instance of the nanobitcoin blockchain to the browser.
 
 # Usage
